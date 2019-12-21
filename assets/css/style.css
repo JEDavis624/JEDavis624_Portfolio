@@ -1,29 +1,44 @@
 h1 {
     background-color: #4aaaa5;
+    border: 1px;
+    border-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: left;
+}
+
+h4{
+    float: right;
+    padding: 5px;
 }
 
 h2{
-    color: #4aaaa5
-
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    clear: both;
 }
 
 p {
     color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 img{
-
+    height: 150px;
+    width: 150px;
 }
 
 .content {
-
+            width: 960px;
+            background-color: #ffffff;
+            border: 1px; 
+            border-color: #dddddd;
 }
 
 button {
-
+        background-color: #4aaaa5;
 }
 
 .footer {
-
-
+        height: 50px;
+        background-color: #666666;   
 }
