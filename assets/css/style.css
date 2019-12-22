@@ -58,7 +58,7 @@ section {
             border-color: #dddddd;
 }
 
-button {
+.submit {
         background-color: #4aaaa5;
         color: white;
 }
