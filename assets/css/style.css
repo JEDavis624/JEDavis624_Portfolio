@@ -1,7 +1,6 @@
 .container-width {
     max-width: 960px;
     margin: auto;
-    margin-bottom: 100px;
 }
 
 .header-container--inner .header-nav {
@@ -27,6 +26,8 @@ a {
 header {
     margin: 0;
     background-color: #ffffff;
+    margin-bottom: 50px;
+    border-bottom: solid 2px #cccccc;
 }
 
 
