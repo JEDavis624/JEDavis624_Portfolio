@@ -10,6 +10,10 @@
     text-align: right;
 }
 
+.header-container-name {
+    display: inline-block;
+}
+
 header {
     margin: 0;
     border-bottom: #cccccc ;
