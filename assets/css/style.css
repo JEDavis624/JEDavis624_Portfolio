@@ -7,7 +7,7 @@
 .header-container--inner .header-nav {
     display: inline-block;
     width: 48%;
-    text-align: right;
+    text-align: right;    
 }
 
 .header-nav{
@@ -25,9 +25,8 @@ a {
 
 header {
     margin: 0;
-    border-bottom: #cccccc ;
-    border-width: 1px;
     background-color: #ffffff;
+    border-bottom: solid 2px #cccccc;
 }
 
 
@@ -133,7 +132,5 @@ section {
         height:50px;
         width:100%;
         background-color: #666666;  
-        border-top: #4aaaa5; 
-        border-style: solid;
-        border-width: 5px;
+        border-top: solid 5px #4aaaa5; 
 }
