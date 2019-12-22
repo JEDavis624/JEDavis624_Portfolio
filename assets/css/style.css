@@ -26,7 +26,6 @@ a {
 header {
     margin: 0;
     background-color: #ffffff;
-    border-bottom: solid 2px #cccccc;
 }
 
 
@@ -40,6 +39,7 @@ h2 {
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-left: 15px;
+    margin-right: 15px;
     border-bottom: solid 2px #dddddd;
 }
 
