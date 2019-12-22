@@ -58,7 +58,31 @@ p {
     margin-left: 10px;
 }
 
-img{
+.hangman {
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+}
+
+.rpg {
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+}
+
+.trivia {
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+}
+
+.widget {
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+}
+
+.rockpaperscissors {
     height: 150px;
     width: 150px;
     margin-left: 10px;
