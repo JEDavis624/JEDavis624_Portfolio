@@ -102,6 +102,18 @@ p {
     margin-left: 15px;
 }
 
+.column1 {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+  .column2 {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
 .mypic {
     height: 150px;
     width: 150px;
