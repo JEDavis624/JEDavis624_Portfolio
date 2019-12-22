@@ -7,7 +7,8 @@
 .header-container--inner .header-nav {
     display: inline-block;
     width: 48%;
-    text-align: right;    
+    text-align: right;
+    padding-top: -5px;    
 }
 
 .header-nav{
@@ -109,6 +110,7 @@ p {
 }
 
 body {
+    margin: 0px;
     background-image: url("../../assets/images/ripples.png");
 }
 
