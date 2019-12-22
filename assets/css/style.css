@@ -27,6 +27,8 @@ h2 {
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-left: 5px;
+    border-bottom: 2px;
+    border-color: #777777;
 }
 
 h3 {
@@ -77,8 +79,10 @@ section {
 }
 
 .footer {
-        height: 50px;
+        position:fixed;
+        left:0px;
+        bottom:0px;
+        height:50px;
+        width:100%;
         background-color: #666666;  
-        max-width: 100%;
-        min-width: 100%;
 }
