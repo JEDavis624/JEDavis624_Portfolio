@@ -27,7 +27,7 @@ h1 {
 h2 {
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-left: 10px;
+    margin-left: 15px;
     border-bottom: 2px;
     border-color: #777777;
 }
@@ -35,7 +35,7 @@ h2 {
 h3 {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 h5 {
@@ -44,7 +44,7 @@ h5 {
 }
 
 input {
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .messagebox {
@@ -55,44 +55,44 @@ input {
 p {
     color: #777777;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .hangman {
     height: 150px;
     width: 150px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .rpg {
     height: 150px;
     width: 150px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .trivia {
     height: 150px;
     width: 150px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .widget {
     height: 150px;
     width: 150px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .rockpaperscissors {
     height: 150px;
     width: 150px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .mypic {
     height: 150px;
     width: 150px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
     float: left;
 }
 
