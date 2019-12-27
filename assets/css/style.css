@@ -4,6 +4,7 @@
 }
 
 .header-container--inner .header-nav {
+    margin-top: 30px;
     display: inline-block;
     width: 46%;
     text-align: right;
