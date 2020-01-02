@@ -83,29 +83,27 @@ p {
 }
 
 .column1 {
-    float: left;
+    display: inline-block;
     padding: 5px;
   }
 
   .column2 {
-    float: left;
+    display: inline-block;
     padding: 5px;
   }
 
   .column3 {
-    clear: both;
-    float: left;
+    display: inline-block;
     padding: 5px;
   }
 
   .column4 {
-    float: left;
+    display: inline-block;
     padding: 5px;
   }
 
   .column5 {
-    clear: both;
-    float: left;
+    display: inline-block;
     padding: 5px;
   }
 
